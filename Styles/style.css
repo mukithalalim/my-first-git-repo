@@ -1,0 +1,30 @@
+*{
+    margin: 10px;
+}
+div{
+    border: 10px solid tomato;
+    border-radius: 5px;
+    padding: 10px;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+}
+#A2,#A4{
+    background-color: aqua;
+}
+.same{
+    background-color: blueviolet;
+}
+#A4{
+    font-weight:800;
+}
+input[type="password"]{
+    color: red;
+}
+footer{
+    text-align: center;
+}
+span{
+    color: red;
+    font-weight:bold;
+}
